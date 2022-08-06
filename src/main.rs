@@ -1,5 +1,5 @@
-mod looping;
+mod structs;
 fn main() {
     println!("Hello, world!");
-    looping::looping();
+    structs::init();
 }
